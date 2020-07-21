@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a Computer Science student at Federal University of Campina Grande
 
-- 📫 How to reach me:
+- 📫 How to reach me:..
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrielly-lucena-0641ab199)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andriellyll)
 <!--
