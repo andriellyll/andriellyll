@@ -1,13 +1,7 @@
 ### Hi there 👋
 I'm Andrielly, aka Drica, a Computer Science student at Federal University of Campina Grande
 
-##### What you should know about me:
-
-- :hedgehog: My spirit animal is a hedgehog
-
-![Hedgehog](https://media.giphy.com/media/3xz2BCohVTd7h2Kvfi/giphy.gif)
-
-- 🌱 I'm currently learning and working with web development
+- 🌱 Currently learning and working with web development
 
 - 📫 How to reach me:  
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrielly-lucena-0641ab199)
