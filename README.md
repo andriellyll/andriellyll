@@ -1,11 +1,11 @@
-### Hi there 👋
-I'm Andrielly, Computer Science student at Federal University of Campina Grande
+👋 **Hi! I'm Andrielly.**  
+🎓 Master's student in Computer Science, specializing in Software Engineering.  
+💻 Interested in software architecture, distributed systems, and machine learning.  
+🚀 Working with web development and exploring the use of LLMs for documentation and software testing.   
 
-<!-- - 🌱 Currently learning and working with web development -->
+**Let's connect!**  
+Find me on [LinkedIn](https://www.linkedin.com/in/andriellyll/) or check out my projects here! 
 
-- 📫 How to reach me:  
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrielly-lucena-0641ab199)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andriellyll)
 <!--
 **andriellyll/andriellyll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
